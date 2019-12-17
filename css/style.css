@@ -1,5 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 h1 {
     color: red;
+    background-color: #ddd;
 }
 
 
@@ -11,12 +18,10 @@ h1 {
 .split_line {
     width: 100%;
     background-color: blue;
-    display:table;
 }
 
 .split_line h1 {
     text-align: center;
-    display:table-cell;
 }
 
 .member_introduction {
@@ -53,3 +58,16 @@ h1 {
 .member_introduction_text_03 {
     text-align: left;
 }
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  overflow: hidden;
+}
+  nav ul li {
+    width: 210px;
+    float: left;
+  }
+
+
