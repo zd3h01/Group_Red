@@ -2,6 +2,9 @@ h1 {
 	color: red;
 	background-color: #ddd;
 }
+nav {
+  background-color: pink;
+}
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -12,5 +15,6 @@ nav ul {
     width: 210px;
     float: left;
   }
+
 
 
