@@ -2,4 +2,15 @@ h1 {
 	color: red;
 	background-color: #ddd;
 }
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  overflow: hidden;
+}
+  nav ul li {
+    width: 210px;
+    float: left;
+  }
+
 
