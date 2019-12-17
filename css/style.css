@@ -35,6 +35,10 @@ h1 {
     background: url(../imgs/1483768_thumb.png) top center no-repeat;
 }
 
+nav {
+  background-color: pink;
+}
+
 .member_img_02 {
     width:300px;
     height: 300px;
@@ -64,7 +68,6 @@ h1 {
 nav {
   background-color: pink;
 }
-
 nav ul {
   list-style-type: none;
   margin: 0;
