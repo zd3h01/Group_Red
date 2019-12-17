@@ -10,7 +10,7 @@ h1 {
 }
 
 
-.conteiner {
+.conteiner,.gl-header, .image, nav, .gl-footer {
     width: 900px;
     margin: 0 auto;
 }
